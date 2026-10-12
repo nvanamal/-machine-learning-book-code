@@ -1,0 +1,1022 @@
+[
+  {
+    "topic": "LINEAR REGRESSION",
+    "kind": "linear",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 8,
+    "python_path": "examples/01_linear/example_a.py",
+    "guide_path": "guides/01_linear/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/01_linear/example_a.md"
+  },
+  {
+    "topic": "LINEAR REGRESSION",
+    "kind": "linear",
+    "example": "B",
+    "label": "Polynomial regression for a curved target",
+    "book_page": 9,
+    "python_path": "examples/01_linear/example_b.py",
+    "guide_path": "guides/01_linear/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/01_linear/example_b.md"
+  },
+  {
+    "topic": "LINEAR REGRESSION",
+    "kind": "linear",
+    "example": "C",
+    "label": "OLS cross-validation on training data",
+    "book_page": 10,
+    "python_path": "examples/01_linear/example_c.py",
+    "guide_path": "guides/01_linear/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/01_linear/example_c.md"
+  },
+  {
+    "topic": "LOGISTIC REGRESSION",
+    "kind": "logistic",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 12,
+    "python_path": "examples/02_logistic/example_a.py",
+    "guide_path": "guides/02_logistic/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/02_logistic/example_a.md"
+  },
+  {
+    "topic": "LOGISTIC REGRESSION",
+    "kind": "logistic",
+    "example": "B",
+    "label": "Multiclass flower classification",
+    "book_page": 13,
+    "python_path": "examples/02_logistic/example_b.py",
+    "guide_path": "guides/02_logistic/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/02_logistic/example_b.md"
+  },
+  {
+    "topic": "LOGISTIC REGRESSION",
+    "kind": "logistic",
+    "example": "C",
+    "label": "Training-only CV for binary classification",
+    "book_page": 14,
+    "python_path": "examples/02_logistic/example_c.py",
+    "guide_path": "guides/02_logistic/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/02_logistic/example_c.md"
+  },
+  {
+    "topic": "DECISION TREE",
+    "kind": "tree",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 16,
+    "python_path": "examples/03_tree/example_a.py",
+    "guide_path": "guides/03_tree/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/03_tree/example_a.md"
+  },
+  {
+    "topic": "DECISION TREE",
+    "kind": "tree",
+    "example": "B",
+    "label": "Numeric regression with a tree",
+    "book_page": 17,
+    "python_path": "examples/03_tree/example_b.py",
+    "guide_path": "guides/03_tree/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/03_tree/example_b.md"
+  },
+  {
+    "topic": "DECISION TREE",
+    "kind": "tree",
+    "example": "C",
+    "label": "Training-only classification CV",
+    "book_page": 18,
+    "python_path": "examples/03_tree/example_c.py",
+    "guide_path": "guides/03_tree/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/03_tree/example_c.md"
+  },
+  {
+    "topic": "K-NEAREST NEIGHBOURS (KNN)",
+    "kind": "knn",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 20,
+    "python_path": "examples/04_knn/example_a.py",
+    "guide_path": "guides/04_knn/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/04_knn/example_a.md"
+  },
+  {
+    "topic": "K-NEAREST NEIGHBOURS (KNN)",
+    "kind": "knn",
+    "example": "B",
+    "label": "Distance-weighted numeric regression",
+    "book_page": 21,
+    "python_path": "examples/04_knn/example_b.py",
+    "guide_path": "guides/04_knn/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/04_knn/example_b.md"
+  },
+  {
+    "topic": "K-NEAREST NEIGHBOURS (KNN)",
+    "kind": "knn",
+    "example": "C",
+    "label": "Multiclass nearest-neighbour prediction",
+    "book_page": 22,
+    "python_path": "examples/04_knn/example_c.py",
+    "guide_path": "guides/04_knn/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/04_knn/example_c.md"
+  },
+  {
+    "topic": "RANDOM FOREST",
+    "kind": "forest",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 24,
+    "python_path": "examples/05_forest/example_a.py",
+    "guide_path": "guides/05_forest/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/05_forest/example_a.md"
+  },
+  {
+    "topic": "RANDOM FOREST",
+    "kind": "forest",
+    "example": "B",
+    "label": "Forest regression on a numeric target",
+    "book_page": 25,
+    "python_path": "examples/05_forest/example_b.py",
+    "guide_path": "guides/05_forest/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/05_forest/example_b.md"
+  },
+  {
+    "topic": "RANDOM FOREST",
+    "kind": "forest",
+    "example": "C",
+    "label": "Training-only classification CV",
+    "book_page": 26,
+    "python_path": "examples/05_forest/example_c.py",
+    "guide_path": "guides/05_forest/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/05_forest/example_c.md"
+  },
+  {
+    "topic": "NAIVE BAYES",
+    "kind": "bayes",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 28,
+    "python_path": "examples/06_bayes/example_a.py",
+    "guide_path": "guides/06_bayes/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/06_bayes/example_a.md"
+  },
+  {
+    "topic": "NAIVE BAYES",
+    "kind": "bayes",
+    "example": "B",
+    "label": "Multinomial NB for text counts",
+    "book_page": 29,
+    "python_path": "examples/06_bayes/example_b.py",
+    "guide_path": "guides/06_bayes/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/06_bayes/example_b.md"
+  },
+  {
+    "topic": "NAIVE BAYES",
+    "kind": "bayes",
+    "example": "C",
+    "label": "Bernoulli NB for binary features",
+    "book_page": 30,
+    "python_path": "examples/06_bayes/example_c.py",
+    "guide_path": "guides/06_bayes/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/06_bayes/example_c.md"
+  },
+  {
+    "topic": "SUPPORT VECTOR MACHINE (SVM)",
+    "kind": "svm",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 32,
+    "python_path": "examples/07_svm/example_a.py",
+    "guide_path": "guides/07_svm/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/07_svm/example_a.md"
+  },
+  {
+    "topic": "SUPPORT VECTOR MACHINE (SVM)",
+    "kind": "svm",
+    "example": "B",
+    "label": "Support-vector numeric regression",
+    "book_page": 33,
+    "python_path": "examples/07_svm/example_b.py",
+    "guide_path": "guides/07_svm/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/07_svm/example_b.md"
+  },
+  {
+    "topic": "SUPPORT VECTOR MACHINE (SVM)",
+    "kind": "svm",
+    "example": "C",
+    "label": "Linear SVM on multiclass inputs",
+    "book_page": 34,
+    "python_path": "examples/07_svm/example_c.py",
+    "guide_path": "guides/07_svm/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/07_svm/example_c.md"
+  },
+  {
+    "topic": "GRADIENT BOOSTING",
+    "kind": "boost",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 36,
+    "python_path": "examples/08_boost/example_a.py",
+    "guide_path": "guides/08_boost/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/08_boost/example_a.md"
+  },
+  {
+    "topic": "GRADIENT BOOSTING",
+    "kind": "boost",
+    "example": "B",
+    "label": "Boosted-tree numeric regression",
+    "book_page": 37,
+    "python_path": "examples/08_boost/example_b.py",
+    "guide_path": "guides/08_boost/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/08_boost/example_b.md"
+  },
+  {
+    "topic": "GRADIENT BOOSTING",
+    "kind": "boost",
+    "example": "C",
+    "label": "Histogram boosting with missing inputs",
+    "book_page": 38,
+    "python_path": "examples/08_boost/example_c.py",
+    "guide_path": "guides/08_boost/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/08_boost/example_c.md"
+  },
+  {
+    "topic": "RIDGE, LASSO & ELASTIC NET",
+    "kind": "ridge",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 40,
+    "python_path": "examples/09_ridge/example_a.py",
+    "guide_path": "guides/09_ridge/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/09_ridge/example_a.md"
+  },
+  {
+    "topic": "RIDGE, LASSO & ELASTIC NET",
+    "kind": "ridge",
+    "example": "B",
+    "label": "Lasso numeric regression",
+    "book_page": 41,
+    "python_path": "examples/09_ridge/example_b.py",
+    "guide_path": "guides/09_ridge/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/09_ridge/example_b.md"
+  },
+  {
+    "topic": "RIDGE, LASSO & ELASTIC NET",
+    "kind": "ridge",
+    "example": "C",
+    "label": "Elastic Net combines two penalties",
+    "book_page": 42,
+    "python_path": "examples/09_ridge/example_c.py",
+    "guide_path": "guides/09_ridge/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/09_ridge/example_c.md"
+  },
+  {
+    "topic": "K-MEANS CLUSTERING",
+    "kind": "kmeans",
+    "example": "A",
+    "label": "Cluster and measure silhouette",
+    "book_page": 44,
+    "python_path": "examples/10_kmeans/example_a.py",
+    "guide_path": "guides/10_kmeans/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/10_kmeans/example_a.md"
+  },
+  {
+    "topic": "K-MEANS CLUSTERING",
+    "kind": "kmeans",
+    "example": "B",
+    "label": "Color grouping as image quantization",
+    "book_page": 45,
+    "python_path": "examples/10_kmeans/example_b.py",
+    "guide_path": "guides/10_kmeans/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/10_kmeans/example_b.md"
+  },
+  {
+    "topic": "K-MEANS CLUSTERING",
+    "kind": "kmeans",
+    "example": "C",
+    "label": "Compare candidate cluster counts",
+    "book_page": 46,
+    "python_path": "examples/10_kmeans/example_c.py",
+    "guide_path": "guides/10_kmeans/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/10_kmeans/example_c.md"
+  },
+  {
+    "topic": "PRINCIPAL COMPONENT ANALYSIS (PCA)",
+    "kind": "pca",
+    "example": "A",
+    "label": "Project onto two PCA components",
+    "book_page": 48,
+    "python_path": "examples/11_pca/example_a.py",
+    "guide_path": "guides/11_pca/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/11_pca/example_a.md"
+  },
+  {
+    "topic": "PRINCIPAL COMPONENT ANALYSIS (PCA)",
+    "kind": "pca",
+    "example": "B",
+    "label": "Held-out reconstruction from two components",
+    "book_page": 49,
+    "python_path": "examples/11_pca/example_b.py",
+    "guide_path": "guides/11_pca/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/11_pca/example_b.md"
+  },
+  {
+    "topic": "PRINCIPAL COMPONENT ANALYSIS (PCA)",
+    "kind": "pca",
+    "example": "C",
+    "label": "PCA inside a predictive validation pipeline",
+    "book_page": 50,
+    "python_path": "examples/11_pca/example_c.py",
+    "guide_path": "guides/11_pca/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/11_pca/example_c.md"
+  },
+  {
+    "topic": "SUPERVISED LEARNING",
+    "kind": "supervised",
+    "example": "A",
+    "label": "Basic fit and held-out prediction",
+    "book_page": 52,
+    "python_path": "examples/12_supervised/example_a.py",
+    "guide_path": "guides/12_supervised/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/12_supervised/example_a.md"
+  },
+  {
+    "topic": "SUPERVISED LEARNING",
+    "kind": "supervised",
+    "example": "B",
+    "label": "Regression uses numeric labels",
+    "book_page": 53,
+    "python_path": "examples/12_supervised/example_b.py",
+    "guide_path": "guides/12_supervised/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/12_supervised/example_b.md"
+  },
+  {
+    "topic": "SUPERVISED LEARNING",
+    "kind": "supervised",
+    "example": "C",
+    "label": "Multiclass targets use a classifier",
+    "book_page": 54,
+    "python_path": "examples/12_supervised/example_c.py",
+    "guide_path": "guides/12_supervised/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/12_supervised/example_c.md"
+  },
+  {
+    "topic": "UNSUPERVISED LEARNING",
+    "kind": "unsupervised",
+    "example": "A",
+    "label": "K-means discovers groups",
+    "book_page": 56,
+    "python_path": "examples/13_unsupervised/example_a.py",
+    "guide_path": "guides/13_unsupervised/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/13_unsupervised/example_a.md"
+  },
+  {
+    "topic": "UNSUPERVISED LEARNING",
+    "kind": "unsupervised",
+    "example": "B",
+    "label": "Density clustering with DBSCAN",
+    "book_page": 57,
+    "python_path": "examples/13_unsupervised/example_b.py",
+    "guide_path": "guides/13_unsupervised/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/13_unsupervised/example_b.md"
+  },
+  {
+    "topic": "UNSUPERVISED LEARNING",
+    "kind": "unsupervised",
+    "example": "C",
+    "label": "Unlabeled anomaly screening",
+    "book_page": 58,
+    "python_path": "examples/13_unsupervised/example_c.py",
+    "guide_path": "guides/13_unsupervised/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/13_unsupervised/example_c.md"
+  },
+  {
+    "topic": "REINFORCEMENT LEARNING",
+    "kind": "rl",
+    "example": "A",
+    "label": "Q-learning in a five-state corridor",
+    "book_page": 60,
+    "python_path": "examples/14_rl/example_a.py",
+    "guide_path": "guides/14_rl/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/14_rl/example_a.md"
+  },
+  {
+    "topic": "REINFORCEMENT LEARNING",
+    "kind": "rl",
+    "example": "B",
+    "label": "SARSA: an on-policy corridor learner",
+    "book_page": 61,
+    "python_path": "examples/14_rl/example_b.py",
+    "guide_path": "guides/14_rl/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/14_rl/example_b.md"
+  },
+  {
+    "topic": "REINFORCEMENT LEARNING",
+    "kind": "rl",
+    "example": "C",
+    "label": "Evaluate a fixed policy without exploration",
+    "book_page": 62,
+    "python_path": "examples/14_rl/example_c.py",
+    "guide_path": "guides/14_rl/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/14_rl/example_c.md"
+  },
+  {
+    "topic": "SEMI-SUPERVISED LEARNING",
+    "kind": "semi",
+    "example": "A",
+    "label": "Confidence-based self-training",
+    "book_page": 64,
+    "python_path": "examples/15_semi/example_a.py",
+    "guide_path": "guides/15_semi/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/15_semi/example_a.md"
+  },
+  {
+    "topic": "SEMI-SUPERVISED LEARNING",
+    "kind": "semi",
+    "example": "B",
+    "label": "Graph-based label spreading",
+    "book_page": 65,
+    "python_path": "examples/15_semi/example_b.py",
+    "guide_path": "guides/15_semi/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/15_semi/example_b.md"
+  },
+  {
+    "topic": "SEMI-SUPERVISED LEARNING",
+    "kind": "semi",
+    "example": "C",
+    "label": "Compare with a labeled-only baseline",
+    "book_page": 66,
+    "python_path": "examples/15_semi/example_c.py",
+    "guide_path": "guides/15_semi/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/15_semi/example_c.md"
+  },
+  {
+    "topic": "SELF-SUPERVISED LEARNING",
+    "kind": "self",
+    "example": "A",
+    "label": "Masked-feature reconstruction",
+    "book_page": 68,
+    "python_path": "examples/16_self/example_a.py",
+    "guide_path": "guides/16_self/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/16_self/example_a.md"
+  },
+  {
+    "topic": "SELF-SUPERVISED LEARNING",
+    "kind": "self",
+    "example": "B",
+    "label": "Denoising reconstruction without manual labels",
+    "book_page": 69,
+    "python_path": "examples/16_self/example_b.py",
+    "guide_path": "guides/16_self/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/16_self/example_b.md"
+  },
+  {
+    "topic": "SELF-SUPERVISED LEARNING",
+    "kind": "self",
+    "example": "C",
+    "label": "Next-sample prediction from a raw time signal",
+    "book_page": 70,
+    "python_path": "examples/16_self/example_c.py",
+    "guide_path": "guides/16_self/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/16_self/example_c.md"
+  },
+  {
+    "topic": "SOFTMAX REGRESSION",
+    "kind": "softmax",
+    "example": "A",
+    "label": "Stable softmax probabilities",
+    "book_page": 72,
+    "python_path": "examples/17_softmax/example_a.py",
+    "guide_path": "guides/17_softmax/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/17_softmax/example_a.md"
+  },
+  {
+    "topic": "SOFTMAX REGRESSION",
+    "kind": "softmax",
+    "example": "B",
+    "label": "Cross-entropy and score gradient",
+    "book_page": 73,
+    "python_path": "examples/17_softmax/example_b.py",
+    "guide_path": "guides/17_softmax/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/17_softmax/example_b.md"
+  },
+  {
+    "topic": "SOFTMAX REGRESSION",
+    "kind": "softmax",
+    "example": "C",
+    "label": "Train a multiclass linear model",
+    "book_page": 74,
+    "python_path": "examples/17_softmax/example_c.py",
+    "guide_path": "guides/17_softmax/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/17_softmax/example_c.md"
+  },
+  {
+    "topic": "MULTILAYER PERCEPTRON (MLP)",
+    "kind": "mlp",
+    "example": "A",
+    "label": "Forward pass through a two-layer network",
+    "book_page": 76,
+    "python_path": "examples/18_mlp/example_a.py",
+    "guide_path": "guides/18_mlp/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/18_mlp/example_a.md"
+  },
+  {
+    "topic": "MULTILAYER PERCEPTRON (MLP)",
+    "kind": "mlp",
+    "example": "B",
+    "label": "One explicit backpropagation update",
+    "book_page": 77,
+    "python_path": "examples/18_mlp/example_b.py",
+    "guide_path": "guides/18_mlp/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/18_mlp/example_b.md"
+  },
+  {
+    "topic": "MULTILAYER PERCEPTRON (MLP)",
+    "kind": "mlp",
+    "example": "C",
+    "label": "Fit a small neural classifier",
+    "book_page": 78,
+    "python_path": "examples/18_mlp/example_c.py",
+    "guide_path": "guides/18_mlp/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/18_mlp/example_c.md"
+  },
+  {
+    "topic": "CONVOLUTIONAL NEURAL NETWORK (CNN)",
+    "kind": "cnn",
+    "example": "A",
+    "label": "A 2-D filter on an image patch",
+    "book_page": 80,
+    "python_path": "examples/19_cnn/example_a.py",
+    "guide_path": "guides/19_cnn/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/19_cnn/example_a.md"
+  },
+  {
+    "topic": "CONVOLUTIONAL NEURAL NETWORK (CNN)",
+    "kind": "cnn",
+    "example": "B",
+    "label": "Max pooling downsamples a feature map",
+    "book_page": 81,
+    "python_path": "examples/19_cnn/example_b.py",
+    "guide_path": "guides/19_cnn/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/19_cnn/example_b.md"
+  },
+  {
+    "topic": "CONVOLUTIONAL NEURAL NETWORK (CNN)",
+    "kind": "cnn",
+    "example": "C",
+    "label": "A 1-D convolutional spectral feature",
+    "book_page": 82,
+    "python_path": "examples/19_cnn/example_c.py",
+    "guide_path": "guides/19_cnn/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/19_cnn/example_c.md"
+  },
+  {
+    "topic": "RESIDUAL NETWORKS (RESNET)",
+    "kind": "resnet",
+    "example": "A",
+    "label": "Identity skip connection",
+    "book_page": 84,
+    "python_path": "examples/20_resnet/example_a.py",
+    "guide_path": "guides/20_resnet/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/20_resnet/example_a.md"
+  },
+  {
+    "topic": "RESIDUAL NETWORKS (RESNET)",
+    "kind": "resnet",
+    "example": "B",
+    "label": "Projection aligns feature dimensions",
+    "book_page": 85,
+    "python_path": "examples/20_resnet/example_b.py",
+    "guide_path": "guides/20_resnet/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/20_resnet/example_b.md"
+  },
+  {
+    "topic": "RESIDUAL NETWORKS (RESNET)",
+    "kind": "resnet",
+    "example": "C",
+    "label": "Identity path appears in the gradient",
+    "book_page": 86,
+    "python_path": "examples/20_resnet/example_c.py",
+    "guide_path": "guides/20_resnet/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/20_resnet/example_c.md"
+  },
+  {
+    "topic": "RECURRENT NEURAL NETWORK (RNN)",
+    "kind": "rnn",
+    "example": "A",
+    "label": "Scalar recurrent state",
+    "book_page": 88,
+    "python_path": "examples/21_rnn/example_a.py",
+    "guide_path": "guides/21_rnn/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/21_rnn/example_a.md"
+  },
+  {
+    "topic": "RECURRENT NEURAL NETWORK (RNN)",
+    "kind": "rnn",
+    "example": "B",
+    "label": "Batch sequence shapes",
+    "book_page": 89,
+    "python_path": "examples/21_rnn/example_b.py",
+    "guide_path": "guides/21_rnn/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/21_rnn/example_b.md"
+  },
+  {
+    "topic": "RECURRENT NEURAL NETWORK (RNN)",
+    "kind": "rnn",
+    "example": "C",
+    "label": "Gradient propagation through time",
+    "book_page": 90,
+    "python_path": "examples/21_rnn/example_c.py",
+    "guide_path": "guides/21_rnn/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/21_rnn/example_c.md"
+  },
+  {
+    "topic": "LONG SHORT-TERM MEMORY (LSTM)",
+    "kind": "lstm",
+    "example": "A",
+    "label": "One gated memory update",
+    "book_page": 92,
+    "python_path": "examples/22_lstm/example_a.py",
+    "guide_path": "guides/22_lstm/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/22_lstm/example_a.md"
+  },
+  {
+    "topic": "LONG SHORT-TERM MEMORY (LSTM)",
+    "kind": "lstm",
+    "example": "B",
+    "label": "Forget gates change memory retention",
+    "book_page": 93,
+    "python_path": "examples/22_lstm/example_b.py",
+    "guide_path": "guides/22_lstm/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/22_lstm/example_b.md"
+  },
+  {
+    "topic": "LONG SHORT-TERM MEMORY (LSTM)",
+    "kind": "lstm",
+    "example": "C",
+    "label": "A scalar LSTM across a sequence",
+    "book_page": 94,
+    "python_path": "examples/22_lstm/example_c.py",
+    "guide_path": "guides/22_lstm/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/22_lstm/example_c.md"
+  },
+  {
+    "topic": "GATED RECURRENT UNIT (GRU)",
+    "kind": "gru",
+    "example": "A",
+    "label": "Update-gate interpolation",
+    "book_page": 96,
+    "python_path": "examples/23_gru/example_a.py",
+    "guide_path": "guides/23_gru/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/23_gru/example_a.md"
+  },
+  {
+    "topic": "GATED RECURRENT UNIT (GRU)",
+    "kind": "gru",
+    "example": "B",
+    "label": "Reset gate controls the candidate",
+    "book_page": 97,
+    "python_path": "examples/23_gru/example_b.py",
+    "guide_path": "guides/23_gru/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/23_gru/example_b.md"
+  },
+  {
+    "topic": "GATED RECURRENT UNIT (GRU)",
+    "kind": "gru",
+    "example": "C",
+    "label": "A scalar GRU sequence",
+    "book_page": 98,
+    "python_path": "examples/23_gru/example_c.py",
+    "guide_path": "guides/23_gru/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/23_gru/example_c.md"
+  },
+  {
+    "topic": "ENCODER-DECODER / SEQ2SEQ",
+    "kind": "seq2seq",
+    "example": "A",
+    "label": "Encode a sequence into a context",
+    "book_page": 100,
+    "python_path": "examples/24_seq2seq/example_a.py",
+    "guide_path": "guides/24_seq2seq/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/24_seq2seq/example_a.md"
+  },
+  {
+    "topic": "ENCODER-DECODER / SEQ2SEQ",
+    "kind": "seq2seq",
+    "example": "B",
+    "label": "Decode conditionally on a context",
+    "book_page": 101,
+    "python_path": "examples/24_seq2seq/example_b.py",
+    "guide_path": "guides/24_seq2seq/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/24_seq2seq/example_b.md"
+  },
+  {
+    "topic": "ENCODER-DECODER / SEQ2SEQ",
+    "kind": "seq2seq",
+    "example": "C",
+    "label": "Teacher forcing shifts targets by one position",
+    "book_page": 102,
+    "python_path": "examples/24_seq2seq/example_c.py",
+    "guide_path": "guides/24_seq2seq/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/24_seq2seq/example_c.md"
+  },
+  {
+    "topic": "ATTENTION MECHANISMS",
+    "kind": "attention",
+    "example": "A",
+    "label": "Scaled dot-product attention",
+    "book_page": 104,
+    "python_path": "examples/25_attention/example_a.py",
+    "guide_path": "guides/25_attention/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/25_attention/example_a.md"
+  },
+  {
+    "topic": "ATTENTION MECHANISMS",
+    "kind": "attention",
+    "example": "B",
+    "label": "Causal self-attention mask",
+    "book_page": 105,
+    "python_path": "examples/25_attention/example_b.py",
+    "guide_path": "guides/25_attention/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/25_attention/example_b.md"
+  },
+  {
+    "topic": "ATTENTION MECHANISMS",
+    "kind": "attention",
+    "example": "C",
+    "label": "Attention pooling retrieves similar keys",
+    "book_page": 106,
+    "python_path": "examples/25_attention/example_c.py",
+    "guide_path": "guides/25_attention/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/25_attention/example_c.md"
+  },
+  {
+    "topic": "TRANSFORMER ARCHITECTURE",
+    "kind": "transformer",
+    "example": "A",
+    "label": "Sinusoidal positional features",
+    "book_page": 108,
+    "python_path": "examples/26_transformer/example_a.py",
+    "guide_path": "guides/26_transformer/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/26_transformer/example_a.md"
+  },
+  {
+    "topic": "TRANSFORMER ARCHITECTURE",
+    "kind": "transformer",
+    "example": "B",
+    "label": "Layer normalization and a residual branch",
+    "book_page": 109,
+    "python_path": "examples/26_transformer/example_b.py",
+    "guide_path": "guides/26_transformer/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/26_transformer/example_b.md"
+  },
+  {
+    "topic": "TRANSFORMER ARCHITECTURE",
+    "kind": "transformer",
+    "example": "C",
+    "label": "A miniature attention-plus-feedforward block",
+    "book_page": 110,
+    "python_path": "examples/26_transformer/example_c.py",
+    "guide_path": "guides/26_transformer/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/26_transformer/example_c.md"
+  },
+  {
+    "topic": "DROPOUT",
+    "kind": "dropout",
+    "example": "A",
+    "label": "Inverted dropout during training",
+    "book_page": 112,
+    "python_path": "examples/27_dropout/example_a.py",
+    "guide_path": "guides/27_dropout/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/27_dropout/example_a.md"
+  },
+  {
+    "topic": "DROPOUT",
+    "kind": "dropout",
+    "example": "B",
+    "label": "Evaluation disables the training mask",
+    "book_page": 113,
+    "python_path": "examples/27_dropout/example_b.py",
+    "guide_path": "guides/27_dropout/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/27_dropout/example_b.md"
+  },
+  {
+    "topic": "DROPOUT",
+    "kind": "dropout",
+    "example": "C",
+    "label": "Expected activation is approximately preserved",
+    "book_page": 114,
+    "python_path": "examples/27_dropout/example_c.py",
+    "guide_path": "guides/27_dropout/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/27_dropout/example_c.md"
+  },
+  {
+    "topic": "BATCH NORMALIZATION",
+    "kind": "batchnorm",
+    "example": "A",
+    "label": "Normalize each feature in a batch",
+    "book_page": 116,
+    "python_path": "examples/28_batchnorm/example_a.py",
+    "guide_path": "guides/28_batchnorm/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/28_batchnorm/example_a.md"
+  },
+  {
+    "topic": "BATCH NORMALIZATION",
+    "kind": "batchnorm",
+    "example": "B",
+    "label": "Learned affine scale and shift",
+    "book_page": 117,
+    "python_path": "examples/28_batchnorm/example_b.py",
+    "guide_path": "guides/28_batchnorm/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/28_batchnorm/example_b.md"
+  },
+  {
+    "topic": "BATCH NORMALIZATION",
+    "kind": "batchnorm",
+    "example": "C",
+    "label": "Running statistics for inference",
+    "book_page": 118,
+    "python_path": "examples/28_batchnorm/example_c.py",
+    "guide_path": "guides/28_batchnorm/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/28_batchnorm/example_c.md"
+  },
+  {
+    "topic": "SGD, MOMENTUM & ADAM",
+    "kind": "optimizers",
+    "example": "A",
+    "label": "Gradient descent on a quadratic",
+    "book_page": 120,
+    "python_path": "examples/29_optimizers/example_a.py",
+    "guide_path": "guides/29_optimizers/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/29_optimizers/example_a.md"
+  },
+  {
+    "topic": "SGD, MOMENTUM & ADAM",
+    "kind": "optimizers",
+    "example": "B",
+    "label": "Momentum on the same quadratic",
+    "book_page": 121,
+    "python_path": "examples/29_optimizers/example_b.py",
+    "guide_path": "guides/29_optimizers/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/29_optimizers/example_b.md"
+  },
+  {
+    "topic": "SGD, MOMENTUM & ADAM",
+    "kind": "optimizers",
+    "example": "C",
+    "label": "Adam with bias correction",
+    "book_page": 122,
+    "python_path": "examples/29_optimizers/example_c.py",
+    "guide_path": "guides/29_optimizers/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/29_optimizers/example_c.md"
+  },
+  {
+    "topic": "TRANSFER LEARNING / FINE-TUNING",
+    "kind": "transfer",
+    "example": "A",
+    "label": "Train and freeze a source representation",
+    "book_page": 124,
+    "python_path": "examples/30_transfer/example_a.py",
+    "guide_path": "guides/30_transfer/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/30_transfer/example_a.md"
+  },
+  {
+    "topic": "TRANSFER LEARNING / FINE-TUNING",
+    "kind": "transfer",
+    "example": "B",
+    "label": "Reuse source hidden features for a new label task",
+    "book_page": 125,
+    "python_path": "examples/30_transfer/example_b.py",
+    "guide_path": "guides/30_transfer/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/30_transfer/example_b.md"
+  },
+  {
+    "topic": "TRANSFER LEARNING / FINE-TUNING",
+    "kind": "transfer",
+    "example": "C",
+    "label": "Fine-tune a transferred hidden weight matrix",
+    "book_page": 126,
+    "python_path": "examples/30_transfer/example_c.py",
+    "guide_path": "guides/30_transfer/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/30_transfer/example_c.md"
+  },
+  {
+    "topic": "GAUSSIAN PROCESS REGRESSION",
+    "kind": "gp",
+    "example": "A",
+    "label": "GP mean and standard deviation",
+    "book_page": 128,
+    "python_path": "examples/31_gp/example_a.py",
+    "guide_path": "guides/31_gp/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/31_gp/example_a.md"
+  },
+  {
+    "topic": "GAUSSIAN PROCESS REGRESSION",
+    "kind": "gp",
+    "example": "B",
+    "label": "Kernel length scale changes similarity",
+    "book_page": 129,
+    "python_path": "examples/31_gp/example_b.py",
+    "guide_path": "guides/31_gp/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/31_gp/example_b.md"
+  },
+  {
+    "topic": "GAUSSIAN PROCESS REGRESSION",
+    "kind": "gp",
+    "example": "C",
+    "label": "Held-out GP regression error",
+    "book_page": 130,
+    "python_path": "examples/31_gp/example_c.py",
+    "guide_path": "guides/31_gp/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/31_gp/example_c.md"
+  },
+  {
+    "topic": "HYPERPARAMETER OPTIMIZATION",
+    "kind": "hpo",
+    "example": "A",
+    "label": "Grid search using training-only folds",
+    "book_page": 132,
+    "python_path": "examples/32_hpo/example_a.py",
+    "guide_path": "guides/32_hpo/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/32_hpo/example_a.md"
+  },
+  {
+    "topic": "HYPERPARAMETER OPTIMIZATION",
+    "kind": "hpo",
+    "example": "B",
+    "label": "Random search over tree settings",
+    "book_page": 133,
+    "python_path": "examples/32_hpo/example_b.py",
+    "guide_path": "guides/32_hpo/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/32_hpo/example_b.md"
+  },
+  {
+    "topic": "HYPERPARAMETER OPTIMIZATION",
+    "kind": "hpo",
+    "example": "C",
+    "label": "Validation curve for regularization",
+    "book_page": 134,
+    "python_path": "examples/32_hpo/example_c.py",
+    "guide_path": "guides/32_hpo/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/32_hpo/example_c.md"
+  },
+  {
+    "topic": "GENERATIVE ADVERSARIAL NETWORK (GAN)",
+    "kind": "gan",
+    "example": "A",
+    "label": "Discriminator probabilities",
+    "book_page": 136,
+    "python_path": "examples/33_gan/example_a.py",
+    "guide_path": "guides/33_gan/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/33_gan/example_a.md"
+  },
+  {
+    "topic": "GENERATIVE ADVERSARIAL NETWORK (GAN)",
+    "kind": "gan",
+    "example": "B",
+    "label": "Train a one-dimensional location GAN",
+    "book_page": 137,
+    "python_path": "examples/33_gan/example_b.py",
+    "guide_path": "guides/33_gan/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/33_gan/example_b.md"
+  },
+  {
+    "topic": "GENERATIVE ADVERSARIAL NETWORK (GAN)",
+    "kind": "gan",
+    "example": "C",
+    "label": "Generator loss differs from original minimax loss",
+    "book_page": 138,
+    "python_path": "examples/33_gan/example_c.py",
+    "guide_path": "guides/33_gan/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/33_gan/example_c.md"
+  },
+  {
+    "topic": "RECOMMENDER SYSTEMS",
+    "kind": "recommender",
+    "example": "A",
+    "label": "Rank items by content similarity",
+    "book_page": 140,
+    "python_path": "examples/34_recommender/example_a.py",
+    "guide_path": "guides/34_recommender/example_a.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/34_recommender/example_a.md"
+  },
+  {
+    "topic": "RECOMMENDER SYSTEMS",
+    "kind": "recommender",
+    "example": "B",
+    "label": "Latent user-item score matrix",
+    "book_page": 141,
+    "python_path": "examples/34_recommender/example_b.py",
+    "guide_path": "guides/34_recommender/example_b.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/34_recommender/example_b.md"
+  },
+  {
+    "topic": "RECOMMENDER SYSTEMS",
+    "kind": "recommender",
+    "example": "C",
+    "label": "Train factors only on observed ratings",
+    "book_page": 142,
+    "python_path": "examples/34_recommender/example_c.py",
+    "guide_path": "guides/34_recommender/example_c.md",
+    "url": "https://github.com/nvanamal/-machine-learning-book-code/blob/main/guides/34_recommender/example_c.md"
+  }
+]
